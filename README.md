@@ -2,7 +2,7 @@
 
 Design and verification of **Segment Insertion Bit (SIB)** and **Locked Segment Insertion Bit (LSIB)** in the IJTAG framework, implemented in Verilog HDL.
 
-> PES University · Electronics & Communication Engineering
+> Rahul Hegde    PES University · Electronics & Communication Engineering
 
 ---
 
