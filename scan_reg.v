@@ -1,4 +1,4 @@
-// ============================================================
+
 //  scan_reg.v  –  Generic N-bit IJTAG Instrument (Scan Register)
 //
 //  Models a simple scan-accessible instrument cell.
