@@ -1,4 +1,4 @@
-// ============================================================
+
 //  ijtag_top.v  –  IJTAG Network Top-Level
 //
 //  Hierarchical IJTAG network demonstrating SIB and LSIB.
