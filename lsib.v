@@ -1,4 +1,4 @@
-// ============================================================
+
 //  lsib.v  –  Locked Segment Insertion Bit (IEEE 1687 IJTAG)
 //
 //  Extends the standard SIB with a LOCK mechanism.
