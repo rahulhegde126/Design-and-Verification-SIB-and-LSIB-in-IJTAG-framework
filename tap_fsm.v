@@ -1,4 +1,3 @@
-// ============================================================
 //  tap_fsm.v  –  JTAG TAP Controller FSM (IEEE 1149.1)
 //  Used as the access engine for IJTAG (IEEE 1687) networks.
 //
