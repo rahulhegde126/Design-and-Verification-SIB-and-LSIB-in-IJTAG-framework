@@ -1,4 +1,3 @@
-// ============================================================
 //  sib.v  –  Segment Insertion Bit (IEEE 1687 IJTAG)
 //
 //  The SIB is the fundamental building block of an IJTAG
